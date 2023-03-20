@@ -1,0 +1,2 @@
+Sem uma agenda Rita terá problemas para relembrar seus pacientes, quando os atendeu e quando deverá os atender novamente.
+A minha proposta de solução é um aplicativo em que Rita poderá marcar o nome do paciente, seu problema e automaticamente a aplicação memorizará seu nome, quando foi atendido e a melhor data possivel para o próximo atendimento.
